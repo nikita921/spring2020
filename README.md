@@ -3,7 +3,7 @@
 
 #### Grade Received: A
 
-These are some of my solutions to the prescribed HW/Projects for CS31. The purpose of this repository is to display/backup my work. Please do not try to copy or re-use any of my code.
+These are my solutions for the projects of CS31. The purpose of this repository is to display/backup my work. Please do not try to copy or re-use any of my code.
 
 | Project | Score |
 | ------- | ----- |
