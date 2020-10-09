@@ -1,9 +1,7 @@
-# CS31: Introduction to Computer Science I
-### Spring 2020, Prof. David Smallberg
-
+# Introduction to Computer Science I
 #### Grade Received: A
 
-These are my solutions for the projects of CS31. The purpose of this repository is to display/backup my work. Please do not try to copy or re-use any of my code.
+These are my solutions and the purpose of this repository is to display/backup my work. Please do not try to copy or re-use any of my code.
 
 | Project | Score |
 | ------- | ----- |
